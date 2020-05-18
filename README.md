@@ -8,6 +8,8 @@
 ![Dk-wps.png](./Dk-wps-1.png)
 
 ## :gear: 使用说明
+> 提供两种签到邀请方式  `py脚本、GUI程序` 可根据个人喜好自行选择
+
 `1. /py` 脚本
 ```
 api = "https://sc.ftqq.com/[your-key].send"
