@@ -37,9 +37,7 @@ pyinstaller -F -w --icon logo.ico Dkwps.py
 > 如使用GUI图形化工具，可在Download链接下载打包完成的程序。
 
 
-<img src="./Dk-wps-2.png" width="30%" height="30%">
-
-<img src="./Dk-wps-3.png" width="30%" height="30%">
+<img src="./Dk-wps-2.png" width="30%" height="30%"><img src="./Dk-wps-3.png" width="30%" height="30%">
 
 ## :desktop_computer: Download
 
